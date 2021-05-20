@@ -1,3 +1,6 @@
 [submodule "9base/git"]
 	path = 9base/git
 	url = https://git.suckless.org/9base
+[submodule "sbase/git"]
+	path = sbase/git
+	url = https://git.suckless.org/sbase
