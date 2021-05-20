@@ -4,3 +4,6 @@
 [submodule "sbase/git"]
 	path = sbase/git
 	url = https://git.suckless.org/sbase
+[submodule "ubase/git"]
+	path = ubase/git
+	url = https://git.suckless.org/ubase
