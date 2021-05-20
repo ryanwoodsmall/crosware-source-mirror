@@ -1,0 +1,3 @@
+[submodule "9base/git"]
+	path = 9base/git
+	url = https://git.suckless.org/9base
