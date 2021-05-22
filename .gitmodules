@@ -7,3 +7,6 @@
 [submodule "ubase/git"]
 	path = ubase/git
 	url = https://git.suckless.org/ubase
+[submodule "rc/git"]
+	path = rc/git
+	url = https://github.com/muennich/rc.git
