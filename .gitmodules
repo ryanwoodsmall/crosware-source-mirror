@@ -13,3 +13,6 @@
 [submodule "htop/git"]
 	path = htop/git
 	url = https://github.com/htop-dev/htop.git
+[submodule "9pro/git"]
+	path = 9pro/git
+	url = https://git.sr.ht/~ft/9pro
