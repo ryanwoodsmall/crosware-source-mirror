@@ -16,3 +16,6 @@
 [submodule "9pro/git"]
 	path = 9pro/git
 	url = https://git.sr.ht/~ft/9pro
+[submodule "pass/git"]
+	path = pass/git
+	url = https://git.zx2c4.com/password-store
