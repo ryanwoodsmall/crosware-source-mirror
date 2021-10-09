@@ -19,3 +19,6 @@
 [submodule "pass/git"]
 	path = pass/git
 	url = https://git.zx2c4.com/password-store
+[submodule "uemacs/git"]
+	path = uemacs/git
+	url = https://git.kernel.org/pub/scm/editors/uemacs/uemacs.git
