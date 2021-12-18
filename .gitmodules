@@ -22,3 +22,6 @@
 [submodule "uemacs/git"]
 	path = uemacs/git
 	url = https://git.kernel.org/pub/scm/editors/uemacs/uemacs.git
+[submodule "stunnel/git"]
+	path = stunnel/git
+	url = https://github.com/mtrojnar/stunnel.git
