@@ -25,3 +25,6 @@
 [submodule "stunnel/git"]
 	path = stunnel/git
 	url = https://github.com/mtrojnar/stunnel.git
+[submodule "sdbm/git"]
+	path = sdbm/git
+	url = https://github.com/jaydg/sdbm.git
