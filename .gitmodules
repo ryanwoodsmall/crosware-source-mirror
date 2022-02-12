@@ -31,3 +31,9 @@
 [submodule "wolfssl/osp/git"]
 	path = wolfssl/osp/git
 	url = https://github.com/wolfSSL/osp
+[submodule "wolfmqtt/git"]
+	path = wolfmqtt/git
+	url = https://github.com/wolfSSL/wolfmqtt.git
+[submodule "wolfssh/git"]
+	path = wolfssh/git
+	url = https://github.com/wolfSSL/wolfssh.git
