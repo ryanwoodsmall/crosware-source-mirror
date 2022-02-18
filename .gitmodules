@@ -37,3 +37,6 @@
 [submodule "wolfssh/git"]
 	path = wolfssh/git
 	url = https://github.com/wolfSSL/wolfssh.git
+[submodule "opkg/git"]
+	path = opkg/git
+	url = https://git.yoctoproject.org/opkg
