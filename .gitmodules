@@ -1,45 +1,60 @@
 [submodule "9base/git"]
 	path = 9base/git
 	url = https://git.suckless.org/9base
+	branch = master
 [submodule "sbase/git"]
 	path = sbase/git
 	url = https://git.suckless.org/sbase
+	branch = master
 [submodule "ubase/git"]
 	path = ubase/git
 	url = https://git.suckless.org/ubase
+	branch = master
 [submodule "rc/git"]
 	path = rc/git
 	url = https://github.com/muennich/rc.git
+	branch = master
 [submodule "htop/git"]
 	path = htop/git
 	url = https://github.com/htop-dev/htop.git
+	branch = main
 [submodule "9pro/git"]
 	path = 9pro/git
 	url = https://git.sr.ht/~ft/9pro
+	branch = master
 [submodule "pass/git"]
 	path = pass/git
 	url = https://git.zx2c4.com/password-store
+	branch = master
 [submodule "uemacs/git"]
 	path = uemacs/git
 	url = https://git.kernel.org/pub/scm/editors/uemacs/uemacs.git
+	branch = master
 [submodule "stunnel/git"]
 	path = stunnel/git
 	url = https://github.com/mtrojnar/stunnel.git
+	branch = master
 [submodule "sdbm/git"]
 	path = sdbm/git
 	url = https://github.com/jaydg/sdbm.git
+	branch = master
 [submodule "wolfssl/osp/git"]
 	path = wolfssl/osp/git
 	url = https://github.com/wolfSSL/osp
+	branch = master
 [submodule "wolfmqtt/git"]
 	path = wolfmqtt/git
 	url = https://github.com/wolfSSL/wolfmqtt.git
+	branch = master
 [submodule "wolfssh/git"]
 	path = wolfssh/git
 	url = https://github.com/wolfSSL/wolfssh.git
+	branch = master
 [submodule "opkg/git"]
 	path = opkg/git
 	url = https://git.yoctoproject.org/opkg
+	branch = master
 [submodule "wolfssl/git"]
 	path = wolfssl/git
 	url = https://github.com/wolfssl/wolfssl.git
+	branch = master
