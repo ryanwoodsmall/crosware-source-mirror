@@ -58,3 +58,7 @@
 	path = wolfssl/git
 	url = https://github.com/wolfssl/wolfssl.git
 	branch = master
+[submodule "gitea/tea/git"]
+	path = gitea/tea/git
+	url = https://gitea.com/gitea/tea.git
+	branch = master
