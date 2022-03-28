@@ -62,3 +62,7 @@
 	path = gitea/tea/git
 	url = https://gitea.com/gitea/tea.git
 	branch = master
+[submodule "zlib/git"]
+	path = zlib/git
+	url = https://github.com/madler/zlib.git
+	branch = master
