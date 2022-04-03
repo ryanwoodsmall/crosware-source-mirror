@@ -66,3 +66,7 @@
 	path = zlib/git
 	url = https://github.com/madler/zlib.git
 	branch = master
+[submodule "bearssl/git"]
+	path = bearssl/git
+	url = https://www.bearssl.org/git/BearSSL
+	branch = master
