@@ -70,3 +70,7 @@
 	path = bearssl/git
 	url = https://www.bearssl.org/git/BearSSL
 	branch = master
+[submodule "shellinabox/git"]
+	path = shellinabox/git
+	url = https://github.com/shellinabox/shellinabox.git
+	branch = master
