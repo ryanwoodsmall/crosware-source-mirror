@@ -74,3 +74,7 @@
 	path = shellinabox/git
 	url = https://github.com/shellinabox/shellinabox.git
 	branch = master
+[submodule "libssh2/git"]
+	path = libssh2/git
+	url = https://github.com/libssh2/libssh2.git
+	branch = master
