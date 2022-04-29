@@ -82,3 +82,7 @@
 	path = slibtool/git
 	url = https://github.com/midipix-project/slibtool
 	branch = main
+[submodule "busybox/git"]
+	path = busybox/git
+	url = https://git.busybox.net/busybox/
+	branch = master
