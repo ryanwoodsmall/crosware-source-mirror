@@ -86,3 +86,7 @@
 	path = busybox/git
 	url = https://git.busybox.net/busybox/
 	branch = master
+[submodule "toybox/git"]
+	path = toybox/git
+	url = https://github.com/landley/toybox.git
+	branch = master
