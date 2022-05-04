@@ -90,3 +90,7 @@
 	path = toybox/git
 	url = https://github.com/landley/toybox.git
 	branch = master
+[submodule "sslh/git"]
+	path = sslh/git
+	url = https://github.com/yrutschle/sslh.git
+	branch = master
