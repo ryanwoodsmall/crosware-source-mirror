@@ -94,3 +94,7 @@
 	path = sslh/git
 	url = https://github.com/yrutschle/sslh.git
 	branch = master
+[submodule "hitch/git"]
+	path = hitch/git
+	url = https://github.com/varnish/hitch.git
+	branch = master
