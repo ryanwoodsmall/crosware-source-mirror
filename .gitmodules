@@ -98,3 +98,7 @@
 	path = hitch/git
 	url = https://github.com/varnish/hitch.git
 	branch = master
+[submodule "colorized-logs/git"]
+	path = colorized-logs/git
+	url = https://github.com/kilobyte/colorized-logs.git
+	branch = master
