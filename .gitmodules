@@ -102,3 +102,7 @@
 	path = colorized-logs/git
 	url = https://github.com/kilobyte/colorized-logs.git
 	branch = master
+[submodule "dash/git"]
+	path = dash/git
+	url = https://git.kernel.org/pub/scm/utils/dash/dash.git
+	branch = master
