@@ -106,3 +106,6 @@
 	path = dash/git
 	url = https://git.kernel.org/pub/scm/utils/dash/dash.git
 	branch = master
+[submodule "nebula/git"]
+	path = nebula/git
+	url = https://github.com/slackhq/nebula.git
