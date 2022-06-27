@@ -109,3 +109,7 @@
 [submodule "nebula/git"]
 	path = nebula/git
 	url = https://github.com/slackhq/nebula.git
+[submodule "pkgconf/git"]
+	path = pkgconf/git
+	url = https://github.com/pkgconf/pkgconf.git
+	branch = master
