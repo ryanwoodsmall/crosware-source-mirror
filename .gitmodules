@@ -113,3 +113,7 @@
 	path = pkgconf/git
 	url = https://github.com/pkgconf/pkgconf.git
 	branch = master
+[submodule "dropbear/git"]
+	path = dropbear/git
+	url = https://github.com/mkj/dropbear.git
+	branch = master
