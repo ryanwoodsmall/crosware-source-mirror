@@ -84,7 +84,8 @@
 	branch = main
 [submodule "busybox/git"]
 	path = busybox/git
-	url = https://git.busybox.net/busybox/
+	#url = https://git.busybox.net/busybox/
+	url = https://github.com/mirror/busybox.git
 	branch = master
 [submodule "toybox/git"]
 	path = toybox/git
