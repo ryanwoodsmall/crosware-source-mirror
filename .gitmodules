@@ -61,7 +61,7 @@
 [submodule "gitea/tea/git"]
 	path = gitea/tea/git
 	url = https://gitea.com/gitea/tea.git
-	branch = master
+	branch = main
 [submodule "zlib/git"]
 	path = zlib/git
 	url = https://github.com/madler/zlib.git
