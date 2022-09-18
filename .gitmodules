@@ -122,3 +122,7 @@
 	path = mbedtls/git
 	url = https://github.com/Mbed-TLS/mbedtls.git
 	branch = development
+[submodule "e2fsprogs/git"]
+	path = e2fsprogs/git
+	url = https://github.com/tytso/e2fsprogs.git
+	branch = master
