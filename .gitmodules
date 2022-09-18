@@ -134,3 +134,7 @@
 	path = libretls/git
 	url = https://git.causal.agency/libretls
 	branch = master
+[submodule "onetrueawk/git"]
+	path = onetrueawk/git
+	url = https://github.com/onetrueawk/awk.git
+	branch = master
