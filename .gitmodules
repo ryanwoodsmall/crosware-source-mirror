@@ -130,3 +130,7 @@
 	path = ksh93/git
 	url = https://github.com/ksh93/ksh.git
 	branch = dev
+[submodule "libretls/git"]
+	path = libretls/git
+	url = https://git.causal.agency/libretls
+	branch = master
