@@ -126,3 +126,7 @@
 	path = e2fsprogs/git
 	url = https://github.com/tytso/e2fsprogs.git
 	branch = master
+[submodule "ksh93/git"]
+	path = ksh93/git
+	url = https://github.com/ksh93/ksh.git
+	branch = dev
