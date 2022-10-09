@@ -150,3 +150,7 @@
 	path = duktape/git
 	url = https://github.com/svaarala/duktape.git
 	branch = master
+[submodule "libtls-bearssl/git"]
+	path = libtls-bearssl/git
+	url = https://github.com/michaelforney/libtls-bearssl.git
+	branch = master
