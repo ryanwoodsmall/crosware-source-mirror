@@ -138,3 +138,7 @@
 	path = onetrueawk/git
 	url = https://github.com/onetrueawk/awk.git
 	branch = master
+[submodule "entr/git"]
+	path = entr/git
+	url = https://github.com/eradman/entr.git
+	branch = master
