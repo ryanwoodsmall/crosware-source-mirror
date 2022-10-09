@@ -142,3 +142,11 @@
 	path = entr/git
 	url = https://github.com/eradman/entr.git
 	branch = master
+[submodule "mujs/git"]
+	path = mujs/git
+	url = https://github.com/ccxvii/mujs.git
+	branch = master
+[submodule "duktape/git"]
+	path = duktape/git
+	url = https://github.com/svaarala/duktape.git
+	branch = master
