@@ -154,3 +154,7 @@
 	path = libtls-bearssl/git
 	url = https://github.com/michaelforney/libtls-bearssl.git
 	branch = master
+[submodule "rlwrap/git"]
+	path = rlwrap/git
+	url = https://github.com/hanslub42/rlwrap.git
+	branch = master
