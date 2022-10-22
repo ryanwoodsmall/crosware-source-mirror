@@ -162,3 +162,7 @@
 	path = mtm/git
 	url = https://github.com/deadpixi/mtm.git
 	branch = master
+[submodule "dtach/git"]
+	path = dtach/git
+	url = https://github.com/crigler/dtach.git
+	branch = master
