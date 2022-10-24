@@ -166,3 +166,7 @@
 	path = dtach/git
 	url = https://github.com/crigler/dtach.git
 	branch = master
+[submodule "opendoas/git"]
+	path = opendoas/git
+	url = https://github.com/Duncaen/OpenDoas.git
+	branch = master
