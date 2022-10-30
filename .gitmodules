@@ -174,3 +174,7 @@
 	path = libressl/libressl-portable/git
 	url = https://github.com/libressl-portable/portable.git
 	branch = master
+[submodule "socat/git"]
+	path = socat/git
+	url = https://repo.or.cz/socat.git
+	branch = master
