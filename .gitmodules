@@ -178,3 +178,7 @@
 	path = socat/git
 	url = https://repo.or.cz/socat.git
 	branch = master
+[submodule "rsync/git"]
+	path = rsync/git
+	url = https://github.com/WayneD/rsync.git
+	branch = master
