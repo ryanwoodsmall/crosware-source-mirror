@@ -182,3 +182,7 @@
 	path = rsync/git
 	url = https://github.com/WayneD/rsync.git
 	branch = master
+[submodule "pdpmake/git"]
+	path = pdpmake/git
+	url = https://github.com/rmyorston/pdpmake.git
+	branch = master
