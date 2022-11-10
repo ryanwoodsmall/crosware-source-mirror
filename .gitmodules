@@ -190,3 +190,7 @@
 	path = njs/git
 	url = https://github.com/nginx/njs.git
 	branch = master
+[submodule "nginx/git"]
+	path = nginx/git
+	url = https://github.com/nginx/nginx.git
+	branch = master
