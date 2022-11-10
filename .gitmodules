@@ -194,3 +194,7 @@
 	path = nginx/git
 	url = https://github.com/nginx/nginx.git
 	branch = master
+[submodule "quickjs/git"]
+	path = quickjs/git
+	url = https://github.com/bellard/quickjs.git
+	branch = master
