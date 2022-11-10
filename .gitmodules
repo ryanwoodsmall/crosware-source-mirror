@@ -186,3 +186,7 @@
 	path = pdpmake/git
 	url = https://github.com/rmyorston/pdpmake.git
 	branch = master
+[submodule "njs/git"]
+	path = njs/git
+	url = https://github.com/nginx/njs.git
+	branch = master
