@@ -198,3 +198,7 @@
 	path = quickjs/git
 	url = https://github.com/bellard/quickjs.git
 	branch = master
+[submodule "ethtool/git"]
+	path = ethtool/git
+	url = https://git.kernel.org/pub/scm/network/ethtool/ethtool.git
+	branch = master
