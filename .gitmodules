@@ -206,3 +206,7 @@
 	path = lmdb/git
 	url = https://github.com/LMDB/lmdb.git
 	branch = mdb.master
+[submodule "tinyssh/git"]
+	path = tinyssh/git
+	url = https://github.com/janmojzis/tinyssh.git
+	branch = master
