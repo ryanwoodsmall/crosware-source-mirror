@@ -210,3 +210,7 @@
 	path = tinyssh/git
 	url = https://github.com/janmojzis/tinyssh.git
 	branch = master
+[submodule "got/git"]
+	path = got/git
+	url = https://git.gameoftrees.org/got-portable.git
+	branch = main
