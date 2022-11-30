@@ -214,3 +214,7 @@
 	path = got/git
 	url = https://git.gameoftrees.org/got-portable.git
 	branch = main
+[submodule "ag/git"]
+	path = ag/git
+	url = https://github.com/ggreer/the_silver_searcher.git
+	branch = master
