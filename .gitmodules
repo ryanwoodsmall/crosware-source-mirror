@@ -218,3 +218,7 @@
 	path = ag/git
 	url = https://github.com/ggreer/the_silver_searcher.git
 	branch = master
+[submodule "pv/git"]
+	path = pv/git
+	url = https://github.com/a-j-wood/pv.git
+	branch = main
