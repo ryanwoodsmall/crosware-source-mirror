@@ -222,3 +222,7 @@
 	path = pv/git
 	url = https://github.com/a-j-wood/pv.git
 	branch = main
+[submodule "xvi/git"]
+	path = xvi/git
+	url = https://github.com/martinwguy/xvi.git
+	branch = master
