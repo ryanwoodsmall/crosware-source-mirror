@@ -234,3 +234,7 @@
 	path = baseutils/git
 	url = https://github.com/ibara/baseutils.git
 	branch = master
+[submodule "outils/git"]
+	path = outils/git
+	url = https://github.com/leahneukirchen/outils.git
+	branch = master
