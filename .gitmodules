@@ -230,3 +230,7 @@
 	path = otools/git
 	url = https://github.com/CarbsLinux/otools.git
 	branch = master
+[submodule "baseutils/git"]
+	path = baseutils/git
+	url = https://github.com/ibara/baseutils.git
+	branch = master
