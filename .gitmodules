@@ -226,3 +226,7 @@
 	path = xvi/git
 	url = https://github.com/martinwguy/xvi.git
 	branch = master
+[submodule "otools/git"]
+	path = otools/git
+	url = https://github.com/CarbsLinux/otools.git
+	branch = master
