@@ -238,3 +238,11 @@
 	path = outils/git
 	url = https://github.com/leahneukirchen/outils.git
 	branch = master
+[submodule "openconnect/git"]
+	path = openconnect/git
+	url = https://gitlab.com/openconnect/openconnect.git
+	branch = master
+[submodule "openconnect/vpnc-scripts/git"]
+	path = openconnect/vpnc-scripts/git
+	url = https://gitlab.com/openconnect/vpnc-scripts.git
+	branch = master
