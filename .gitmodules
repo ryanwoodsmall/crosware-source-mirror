@@ -246,3 +246,7 @@
 	path = openconnect/vpnc-scripts/git
 	url = https://gitlab.com/openconnect/vpnc-scripts.git
 	branch = master
+[submodule "openssh/git"]
+	path = openssh/git
+	url = https://github.com/openssh/openssh-portable.git
+	branch = master
