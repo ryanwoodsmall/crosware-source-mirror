@@ -254,3 +254,7 @@
 	path = tmux/git
 	url = https://github.com/tmux/tmux.git
 	branch = master
+[submodule "glorytun/git"]
+	path = glorytun/git
+	url = https://github.com/angt/glorytun.git
+	branch = master
