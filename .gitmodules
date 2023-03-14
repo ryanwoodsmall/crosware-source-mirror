@@ -262,3 +262,15 @@
 	path = file/git
 	url = https://github.com/file/file.git
 	branch = master
+[submodule "wireguard/wireguard-go/git"]
+	path = wireguard/wireguard-go/git
+	url = https://github.com/WireGuard/wireguard-go.git
+	branch = master
+[submodule "wireguard/wgctrl-go/git"]
+	path = wireguard/wgctrl-go/git
+	url = https://github.com/WireGuard/wgctrl-go.git
+	branch = master
+[submodule "wireguard/wireguard-tools/git"]
+	path = wireguard/wireguard-tools/git
+	url = https://github.com/WireGuard/wireguard-tools.git
+	branch = master
