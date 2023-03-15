@@ -274,3 +274,7 @@
 	path = wireguard/wireguard-tools/git
 	url = https://github.com/WireGuard/wireguard-tools.git
 	branch = master
+[submodule "neatvi/git"]
+	path = neatvi/git
+	url = https://github.com/aligrudi/neatvi.git
+	branch = master
