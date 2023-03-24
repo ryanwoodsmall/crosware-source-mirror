@@ -286,3 +286,7 @@
 	path = inadyn/git
 	url = https://github.com/troglobit/inadyn.git
 	branch = master
+[submodule "w3m/git"]
+	path = w3m/git
+	url = https://github.com/tats/w3m.git
+	branch = master
