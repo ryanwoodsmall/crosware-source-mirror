@@ -290,3 +290,7 @@
 	path = w3m/git
 	url = https://github.com/tats/w3m.git
 	branch = master
+[submodule "libffi/git"]
+	path = libffi/git
+	url = https://github.com/libffi/libffi.git
+	branch = master
