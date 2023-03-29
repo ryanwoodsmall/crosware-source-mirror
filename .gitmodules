@@ -294,3 +294,7 @@
 	path = libffi/git
 	url = https://github.com/libffi/libffi.git
 	branch = master
+[submodule "tree/git"]
+	path = tree/git
+	url = https://gitlab.com/OldManProgrammer/unix-tree.git
+	branch = master
