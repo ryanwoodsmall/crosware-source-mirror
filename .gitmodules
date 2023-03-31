@@ -298,3 +298,7 @@
 	path = tree/git
 	url = https://gitlab.com/OldManProgrammer/unix-tree.git
 	branch = master
+[submodule "gitlab/glab/git"]
+	path = gitlab/glab/git
+	url = https://gitlab.com/gitlab-org/cli.git
+	branch = main
