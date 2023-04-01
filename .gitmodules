@@ -302,3 +302,7 @@
 	path = gitlab/glab/git
 	url = https://gitlab.com/gitlab-org/cli.git
 	branch = main
+[submodule "npt/git"]
+	path = npt/git
+	url = https://github.com/nptcl/npt.git
+	branch = master
