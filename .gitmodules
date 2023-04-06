@@ -306,3 +306,11 @@
 	path = npt/git
 	url = https://github.com/nptcl/npt.git
 	branch = master
+[submodule "cadaver/git"]
+	path = cadaver/git
+	url = https://github.com/notroj/cadaver.git
+	branch = master
+[submodule "neon/git"]
+	path = neon/git
+	url = https://github.com/notroj/neon.git
+	branch = master
