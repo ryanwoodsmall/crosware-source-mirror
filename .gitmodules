@@ -314,3 +314,7 @@
 	path = neon/git
 	url = https://github.com/notroj/neon.git
 	branch = master
+[submodule "nextvi/git"]
+	path = nextvi/git
+	url = https://github.com/kyx0r/nextvi.git
+	branch = master
