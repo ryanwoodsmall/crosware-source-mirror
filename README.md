@@ -22,3 +22,18 @@ git submodule foreach --recursive 'git pull'
 git submodule init
 git submodule foreach --recursive 'git branch -l 2>&1 | tail -1 | xargs echo git -C ${PWD} checkout' | grep ^git | bash
 ```
+
+### detritus
+
+to convert a `.gitmodules` to TOML, use something like this (for consumption by `yj`, then `yq`, `jq`, ...):
+
+```
+tr -d '"' < .gitmodules \
+| tr '\t' ' ' \
+| tr -s ' ' \
+| sed '/submodule /s,/,_,g' \
+| sed 's,submodule ,,g' \
+| sed '/^ /s, = , = ",g' \
+| sed '/^ /s,$,",g' \
+| sed 's,^ ,,g'
+```
