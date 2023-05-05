@@ -318,3 +318,11 @@
 	path = nextvi/git
 	url = https://github.com/kyx0r/nextvi.git
 	branch = master
+[submodule "samurai/git"]
+	path = samurai/git
+	url = https://github.com/michaelforney/samurai.git
+	branch = master
+[submodule "muon/git"]
+	path = muon/git
+	url = https://github.com/annacrombie/muon.git
+	branch = master
