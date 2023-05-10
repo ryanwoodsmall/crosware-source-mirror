@@ -326,3 +326,7 @@
 	path = muon/git
 	url = https://github.com/annacrombie/muon.git
 	branch = master
+[submodule "doctl/git"]
+	path = doctl/git
+	url = https://github.com/digitalocean/doctl.git
+	branch = main
