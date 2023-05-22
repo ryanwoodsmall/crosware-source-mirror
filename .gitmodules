@@ -330,3 +330,7 @@
 	path = doctl/git
 	url = https://github.com/digitalocean/doctl.git
 	branch = main
+[submodule "unfs3/git"]
+	path = unfs3/git
+	url = https://github.com/unfs3/unfs3.git
+	branch = master
