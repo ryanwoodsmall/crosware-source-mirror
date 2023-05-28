@@ -334,3 +334,7 @@
 	path = unfs3/git
 	url = https://github.com/unfs3/unfs3.git
 	branch = master
+[submodule "goldy/git"]
+	path = goldy/git
+	url = https://github.com/ibm-security-innovation/goldy.git
+	branch = main
