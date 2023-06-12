@@ -10,10 +10,6 @@
 	path = ubase/git
 	url = https://git.suckless.org/ubase
 	branch = master
-[submodule "rc/git"]
-	path = rc/git
-	url = https://github.com/muennich/rc.git
-	branch = master
 [submodule "htop/git"]
 	path = htop/git
 	url = https://github.com/htop-dev/htop.git
