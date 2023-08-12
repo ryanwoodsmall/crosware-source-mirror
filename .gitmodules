@@ -346,3 +346,7 @@
 	path = elfutils/git
 	url = https://sourceware.org/git/elfutils.git
 	branch = master
+[submodule "argpstandalone/git"]
+	path = argpstandalone/git
+	url = https://github.com/argp-standalone/argp-standalone.git
+	branch = master
