@@ -334,3 +334,15 @@
 	path = goldy/git
 	url = https://github.com/ibm-security-innovation/goldy.git
 	branch = main
+[submodule "libuargp/git"]
+	path = libuargp/git
+	url = https://github.com/xhebox/libuargp.git
+	branch = master
+[submodule "muslobstack/git"]
+	path = muslobstack/git
+	url = https://github.com/void-linux/musl-obstack.git
+	branch = master
+[submodule "elfutils/git"]
+	path = elfutils/git
+	url = https://sourceware.org/git/elfutils.git
+	branch = master
