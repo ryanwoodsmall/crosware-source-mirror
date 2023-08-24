@@ -350,3 +350,7 @@
 	path = argpstandalone/git
 	url = https://github.com/argp-standalone/argp-standalone.git
 	branch = master
+[submodule "fennel/git"]
+	path = fennel/git
+	url = https://git.sr.ht/~technomancy/fennel
+	branch = main
