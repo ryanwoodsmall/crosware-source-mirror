@@ -366,3 +366,7 @@
 	path = openvpn/git
 	url = https://github.com/openvpn/openvpn.git
 	branch = master
+[submodule "mosquitto/git"]
+	path = mosquitto/git
+	url = https://github.com/eclipse/mosquitto.git
+	branch = master
