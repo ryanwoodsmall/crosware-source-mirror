@@ -362,3 +362,7 @@
 	path = xz/git
 	url = https://github.com/tukaani-project/xz.git
 	branch = master
+[submodule "openvpn/git"]
+	path = openvpn/git
+	url = https://github.com/openvpn/openvpn.git
+	branch = master
