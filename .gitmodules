@@ -370,3 +370,7 @@
 	path = mosquitto/git
 	url = https://github.com/eclipse/mosquitto.git
 	branch = master
+[submodule "libucontext/git"]
+	path = libucontext/git
+	url = https://github.com/kaniini/libucontext.git
+	branch = master
