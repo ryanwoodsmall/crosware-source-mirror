@@ -345,7 +345,7 @@
 [submodule "elfutils/git"]
 	path = elfutils/git
 	url = https://sourceware.org/git/elfutils.git
-	branch = master
+	branch = main
 [submodule "argpstandalone/git"]
 	path = argpstandalone/git
 	url = https://github.com/argp-standalone/argp-standalone.git
