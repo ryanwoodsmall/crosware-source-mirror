@@ -374,3 +374,11 @@
 	path = libucontext/git
 	url = https://github.com/kaniini/libucontext.git
 	branch = master
+[submodule "libxml2/git"]
+	path = libxml2/git
+	url = https://github.com/gnome/libxml2.git
+	branch = master
+[submodule "libxslt/git"]
+	path = libxslt/git
+	url = https://github.com/gnome/libxslt.git
+	branch = master
