@@ -382,3 +382,11 @@
 	path = libxslt/git
 	url = https://github.com/gnome/libxslt.git
 	branch = master
+[submodule "libtom/libtommath/git"]
+	path = libtom/libtommath/git
+	url = https://github.com/libtom/libtommath.git
+	branch = develop
+[submodule "libtom/libtomcrypt/git"]
+	path = libtom/libtomcrypt/git
+	url = https://github.com/libtom/libtomcrypt.git
+	branch = develop
