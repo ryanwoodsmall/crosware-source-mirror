@@ -390,3 +390,15 @@
 	path = libtom/libtomcrypt/git
 	url = https://github.com/libtom/libtomcrypt.git
 	branch = develop
+[submodule "libpsl/git"]
+	path = libpsl/git
+	url = https://github.com/rockdaboot/libpsl.git
+	branch = master
+[submodule "libidn/git"]
+	path = libidn/git
+	url = https://gitlab.com/libidn/libidn.git
+	branch = master
+[submodule "libidn2/git"]
+	path = libidn2/git
+	url = https://gitlab.com/libidn/libidn2.git
+	branch = master
