@@ -402,3 +402,7 @@
 	path = libidn2/git
 	url = https://gitlab.com/libidn/libidn2.git
 	branch = master
+[submodule "cryanc/git"]
+	path = cryanc/git
+	url = https://github.com/classilla/cryanc.git
+	branch = main
