@@ -406,3 +406,11 @@
 	path = cryanc/git
 	url = https://github.com/classilla/cryanc.git
 	branch = main
+[submodule "jq/git"]
+	path = jq/git
+	url = https://github.com/jqlang/jq.git
+	branch = master
+[submodule "jo/git"]
+	path = jo/git
+	url = https://github.com/jpmens/jo.git
+	branch = master
