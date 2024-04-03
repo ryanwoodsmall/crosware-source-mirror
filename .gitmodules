@@ -360,7 +360,9 @@
 	branch = master
 [submodule "xz/git"]
 	path = xz/git
-	url = https://github.com/tukaani-project/xz.git
+	#url = https://github.com/tukaani-project/xz.git
+	#url = https://github.com/xz-mirror/xz.git
+	url = https://git.tukaani.org/xz.git
 	branch = master
 [submodule "openvpn/git"]
 	path = openvpn/git
