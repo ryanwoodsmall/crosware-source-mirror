@@ -416,3 +416,7 @@
 	path = jo/git
 	url = https://github.com/jpmens/jo.git
 	branch = master
+[submodule "lighttpd/git"]
+	path = lighttpd/git
+	url = https://git.lighttpd.net/lighttpd/lighttpd1.4.git
+	branch = master
