@@ -420,3 +420,7 @@
 	path = lighttpd/git
 	url = https://git.lighttpd.net/lighttpd/lighttpd1.4.git
 	branch = master
+[submodule "openjdk/nashorn/git"]
+	path = openjdk/nashorn/git
+	url = https://github.com/openjdk/nashorn.git
+	branch = main
