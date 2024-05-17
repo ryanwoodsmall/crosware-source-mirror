@@ -424,3 +424,7 @@
 	path = openjdk/nashorn/git
 	url = https://github.com/openjdk/nashorn.git
 	branch = main
+[submodule "dnsmasq/git"]
+	path = dnsmasq/git
+	url = http://thekelleys.org.uk/git/dnsmasq.git
+	branch = master
