@@ -208,7 +208,8 @@
 	branch = master
 [submodule "got/git"]
 	path = got/git
-	url = https://git.gameoftrees.org/got-portable.git
+	#url = https://git.gameoftrees.org/got-portable.git
+	url = ssh://anonymous@got.gameoftrees.org/got-portable.git
 	branch = main
 [submodule "ag/git"]
 	path = ag/git
