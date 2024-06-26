@@ -433,3 +433,7 @@
 	path = txt2man/git
 	url = https://github.com/mvertes/txt2man.git
 	branch = master
+[submodule "u-root/cpu/git"]
+	path = u-root/cpu/git
+	url = https://github.com/u-root/cpu.git
+	branch = main
