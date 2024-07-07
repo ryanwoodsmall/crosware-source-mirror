@@ -437,3 +437,11 @@
 	path = u-root/cpu/git
 	url = https://github.com/u-root/cpu.git
 	branch = main
+[submodule "gauche/git"]
+	path = gauche/git
+	url = https://github.com/shirok/gauche.git
+	branch = master
+[submodule "gambit/git"]
+	path = gambit/git
+	url = https://github.com/gambit/gambit.git
+	branch = master
