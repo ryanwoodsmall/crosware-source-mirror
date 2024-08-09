@@ -427,7 +427,7 @@
 	branch = main
 [submodule "dnsmasq/git"]
 	path = dnsmasq/git
-	url = http://thekelleys.org.uk/git/dnsmasq.git
+	url = https://thekelleys.org.uk/git/dnsmasq.git
 	branch = master
 [submodule "txt2man/git"]
 	path = txt2man/git
