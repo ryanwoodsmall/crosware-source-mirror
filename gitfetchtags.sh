@@ -10,4 +10,4 @@
 : ${GIT_SSH_COMMAND:='dbclient -yy'}
 export GIT_SSH_COMMAND
 
-( time ( grep path.*=.*got/git .gitmodules | cut -f2 -d= | sort | while read -r i ; do { echo $i ; git -C $i pull ; git -C $i fetch -p ; git -C $i fetch --tags ; } ; echo $? ; done ) ) |& tee /tmp/gitfetchtags.out
+( time ( grep path.*= .gitmodules | grep -v '#.*path.*=' | cut -f2 -d= | sort | while read -r i ; do { echo $i ; git -C $i pull ; git -C $i fetch -p ; git -C $i fetch --tags ; } ; echo $? ; done ) ) |& tee /tmp/gitfetchtags.out
