@@ -445,3 +445,7 @@
 	path = gambit/git
 	url = https://github.com/gambit/gambit.git
 	branch = master
+[submodule "libcap/git"]
+	path = libcap/git
+	url = https://git.kernel.org/pub/scm/libs/libcap/libcap.git
+	branch = master
