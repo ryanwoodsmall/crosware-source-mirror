@@ -2,9 +2,12 @@
 #
 # update git tags
 #
-
+# XXX - find example
+# find $(find .git/modules/ -type d -name tags) -type f -exec ls -latr {} + | grep -vE -- '-RC|(-|_)rc|sig-libcap|beta$'
+#
 # XXX - need?
 # set -euo pipefail
+#
 
 # XXX - keep `got` happy and workaround ssh old rsa/new ed25519 failures
 : ${GIT_SSH_COMMAND:='dbclient -yy'}
