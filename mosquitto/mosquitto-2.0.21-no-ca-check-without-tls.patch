@@ -1,0 +1,19 @@
+--- mosquitto-2.0.21/src/conf.c.ORIG	2025-03-25 17:12:04.860801201 +0000
++++ mosquitto-2.0.21/src/conf.c	2025-03-25 17:12:50.718425963 +0000
+@@ -2313,6 +2313,7 @@
+ 		}
+ 	}
+ 
++#ifdef WITH_TLS
+ 	/* Check for missing TLS cafile/capath/certfile/keyfile */
+ 	for(int i=0; i<config->listener_count; i++){
+ 		 bool cafile = !!config->listeners[i].cafile;
+@@ -2333,6 +2334,8 @@
+ 			 return MOSQ_ERR_INVAL;
+ 		 }
+ 	}
++#endif
++
+ 	return MOSQ_ERR_SUCCESS;
+ }
+ 
