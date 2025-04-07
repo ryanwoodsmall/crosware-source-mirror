@@ -449,3 +449,7 @@
 	path = libcap/git
 	url = https://git.kernel.org/pub/scm/libs/libcap/libcap.git
 	branch = master
+[submodule "libproxyprotocol/git"]
+	path = libproxyprotocol/git
+	url = https://github.com/kosmas-valianos/libproxyprotocol.git
+	branch = main
