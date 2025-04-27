@@ -360,7 +360,7 @@
 [submodule "luarocks/git"]
 	path = luarocks/git
 	url = https://github.com/luarocks/luarocks.git
-	branch = master
+	branch = main
 [submodule "xz/git"]
 	path = xz/git
 	url = https://github.com/tukaani-project/xz.git
