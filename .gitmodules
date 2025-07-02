@@ -76,7 +76,7 @@
 	branch = master
 [submodule "slibtool/git"]
 	path = slibtool/git
-	url = https://github.com/midipix-project/slibtool
+	url = https://git.foss21.org/cross/slibtool
 	branch = main
 [submodule "busybox/git"]
 	path = busybox/git
