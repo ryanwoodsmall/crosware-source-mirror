@@ -453,3 +453,7 @@
 	path = libproxyprotocol/git
 	url = https://github.com/kosmas-valianos/libproxyprotocol.git
 	branch = main
+[submodule "dtc/git"]
+	path = dtc/git
+	url = https://git.kernel.org/pub/scm/utils/dtc/dtc.git
+	branch = main
