@@ -457,3 +457,7 @@
 	path = dtc/git
 	url = https://git.kernel.org/pub/scm/utils/dtc/dtc.git
 	branch = main
+[submodule "libcap-ng/git"]
+	path = libcap-ng/git
+	url = https://github.com/stevegrubb/libcap-ng.git
+	branch = master
