@@ -461,3 +461,11 @@
 	path = libcap-ng/git
 	url = https://github.com/stevegrubb/libcap-ng.git
 	branch = master
+[submodule "libbsd/libmd/git"]
+	path = libbsd/libmd/git
+	url = https://gitlab.freedesktop.org/libbsd/libmd.git
+	branch = main
+[submodule "libbsd/libbsd/git"]
+	path = libbsd/libbsd/git
+	url = https://gitlab.freedesktop.org/libbsd/libbsd.git
+	branch = main
