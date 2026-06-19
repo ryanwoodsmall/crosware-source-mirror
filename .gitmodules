@@ -469,3 +469,7 @@
 	path = libbsd/libbsd/git
 	url = https://gitlab.freedesktop.org/libbsd/libbsd.git
 	branch = main
+[submodule "miniflux/v2/git"]
+	path = miniflux/v2/git
+	url = https://github.com/miniflux/v2.git
+	branch = main
