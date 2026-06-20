@@ -485,3 +485,11 @@
 	path = ninep/git
 	url = https://github.com/gnoack/ninep.git
 	branch = master
+[submodule "gron.awk/git"]
+	path = gron.awk/git
+	url = https://github.com/xonixx/gron.awk.git
+	branch = main
+[submodule "gron/git"]
+	path = gron/git
+	url = https://github.com/tomnomnom/gron.git
+	branch = master
