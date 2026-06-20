@@ -473,3 +473,7 @@
 	path = miniflux/v2/git
 	url = https://github.com/miniflux/v2.git
 	branch = main
+[submodule "goawk/git"]
+	path = goawk/git
+	url = https://github.com/benhoyt/goawk.git
+	branch = master
