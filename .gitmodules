@@ -481,3 +481,7 @@
 	path = go9p/git
 	url = https://github.com/knusbaum/go9p.git
 	branch = master
+[submodule "ninep/git"]
+	path = ninep/git
+	url = https://github.com/gnoack/ninep.git
+	branch = master
