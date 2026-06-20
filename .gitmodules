@@ -477,3 +477,7 @@
 	path = goawk/git
 	url = https://github.com/benhoyt/goawk.git
 	branch = master
+[submodule "go9p/git"]
+	path = go9p/git
+	url = https://github.com/knusbaum/go9p.git
+	branch = master
