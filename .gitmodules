@@ -85,7 +85,7 @@
 	branch = master
 [submodule "toybox/git"]
 	path = toybox/git
-	url = https://github.com/landley/toybox.git
+	url = https://codeberg.org/landley/toybox.git
 	branch = master
 [submodule "sslh/git"]
 	path = sslh/git
