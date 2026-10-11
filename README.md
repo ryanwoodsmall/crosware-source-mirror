@@ -37,3 +37,10 @@ tr -d '"' < .gitmodules \
 | sed '/^ /s,$,",g' \
 | sed 's,^ ,,g'
 ```
+
+tags
+
+```
+# time bash gitfetchtags.sh ; echo $?
+# grep -iE '^[A-Za-z0-9\-]+/[A-Za-z0-9\-]|new tag' /tmp/gitfetchtags.out | grep -B1 tag
+```
