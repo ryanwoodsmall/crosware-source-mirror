@@ -493,3 +493,7 @@
 	path = gron/git
 	url = https://github.com/tomnomnom/gron.git
 	branch = master
+[submodule "musl-cross-make/git"]
+	path = musl-cross-make/git
+	url = https://github.com/richfelker/musl-cross-make
+	branch = master
